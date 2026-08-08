@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm a technology enthusiast who has been passionate about computers and technology since I was a kid. I've been studying and exploring the world of web development for the past four years, constantly learning new technologies and improving my skills through personal projects and practice.<br><br>I'm a kind, quiet, and reserved person who enjoys collaborating with others and working as part of a team. I believe that good communication, willingness to learn, and the ability to work together are just as important as technical skills.<br><br>I'm always looking for opportunities to learn, build new things, and grow as a developer.
 
+# 🧠 Concepts & Practices: ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-%23000000.svg?style=for-the-badge) ![Agile Methodology](https://img.shields.io/badge/Agile_Methodology-%2300ADD8.svg?style=for-the-badge) ![Git Flow Workflow](https://img.shields.io/badge/Git_Flow_Workflow-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-%23FE5196.svg?style=for-the-badge&logo=conventionalcommits&logoColor=white)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
