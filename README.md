@@ -24,13 +24,6 @@ I'm a technology enthusiast who has been passionate about computers and technolo
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 
-# 🧠 Concepts & Practices:
-![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-%23000000.svg?style=for-the-badge)
-![Agile Methodology](https://img.shields.io/badge/Agile_Methodology-%2300ADD8.svg?style=for-the-badge)
-![Git Flow Workflow](https://img.shields.io/badge/Git_Flow_Workflow-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-%23FE5196.svg?style=for-the-badge&logo=conventionalcommits&logoColor=white)
-
-
 # 🧠 Concepts & Practices: 
 ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-%23000000.svg?style=for-the-badge) 
 ![Clean Code](https://img.shields.io/badge/Clean_Code-%23000000.svg?style=for-the-badge) 
@@ -51,4 +44,3 @@ I'm a technology enthusiast who has been passionate about computers and technolo
 
 ---
 [![](https://komarev.com/ghpvc/?username=kevincin8&icon=0&color=0)](https://visitcount.itsvg.in)
-
