@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm a technology enthusiast who has been passionate about computers and technology since I was a kid. I've been studying and exploring the world of web development for the past four years, constantly learning new technologies and improving my skills through personal projects and practice.<br><br>I'm a kind, quiet, and reserved person who enjoys collaborating with others and working as part of a team. I believe that good communication, willingness to learn, and the ability to work together are just as important as technical skills.<br><br>I'm always looking for opportunities to learn, build new things, and grow as a developer.
 
-# 🧠 Concepts & Practices: ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-%23000000.svg?style=for-the-badge) ![Agile Methodology](https://img.shields.io/badge/Agile_Methodology-%2300ADD8.svg?style=for-the-badge) ![Git Flow Workflow](https://img.shields.io/badge/Git_Flow_Workflow-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-%23FE5196.svg?style=for-the-badge&logo=conventionalcommits&logoColor=white)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,6 +22,26 @@ I'm a technology enthusiast who has been passionate about computers and technolo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+
+# 🧠 Concepts & Practices:
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-%23000000.svg?style=for-the-badge)
+![Agile Methodology](https://img.shields.io/badge/Agile_Methodology-%2300ADD8.svg?style=for-the-badge)
+![Git Flow Workflow](https://img.shields.io/badge/Git_Flow_Workflow-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-%23FE5196.svg?style=for-the-badge&logo=conventionalcommits&logoColor=white)
+
+
+# 🧠 Concepts & Practices: 
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-%23000000.svg?style=for-the-badge) 
+![Clean Code](https://img.shields.io/badge/Clean_Code-%23000000.svg?style=for-the-badge) 
+![Agile Methodology](https://img.shields.io/badge/Agile_Methodology-%2300ADD8.svg?style=for-the-badge) 
+![Git Flow Workflow](https://img.shields.io/badge/Git_Flow_Workflow-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-%23FE5196.svg?style=for-the-badge&logo=conventionalcommits&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%23000000.svg?style=for-the-badge) 
+![DRY](https://img.shields.io/badge/DRY-%23000000.svg?style=for-the-badge) 
+![KISS](https://img.shields.io/badge/KISS-%23000000.svg?style=for-the-badge) 
+![YAGNI](https://img.shields.io/badge/YAGNI-%23000000.svg?style=for-the-badge) 
+![RESTful API Design](https://img.shields.io/badge/RESTful_API_Design-%2300969A.svg?style=for-the-badge) 
 
 
 # 📊 GitHub Stats:
