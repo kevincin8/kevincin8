@@ -36,6 +36,11 @@ I'm a technology enthusiast who has been passionate about computers and technolo
 ![YAGNI](https://img.shields.io/badge/YAGNI-%23000000.svg?style=for-the-badge) 
 ![RESTful API Design](https://img.shields.io/badge/RESTful_API_Design-%2300969A.svg?style=for-the-badge) 
 
+## 🚀 My Projects
+
+### 📽️ Youtbe clone with api
+
+![Youtube clone](./imags/youtube-preview.webm)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=kevincin8&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
